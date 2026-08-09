@@ -1,8 +1,18 @@
+
+Prompts · MD
 "https://www.abtalks.in/hackathon/dashboard can u suggest me improvements in this website"
+ 
 "Make a website for me with all the suggested changes with every file sorted and basic format."
+ 
 "Use vibrant colours and include more features"
+ 
 "instead of 60 |Day on top put the logo of ab talks"
+ 
 "change the logo to AB talks with this written in white and with a brush"
+ 
 "mark the today cell with a marker to indicate current day"
+ 
 "change the color of cells and  legend to show missing as red, grace as blue, future days as grey and shuffled as green"
+ 
 "Make a presentation for me on this website"
+ 
